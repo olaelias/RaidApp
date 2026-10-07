@@ -1,0 +1,5 @@
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\publish\RaidApp.exe
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\publish\RaidApp.dll
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\publish\RaidApp.deps.json
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\publish\RaidApp.runtimeconfig.json
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\publish\RaidApp.pdb

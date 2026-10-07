@@ -1,0 +1,14 @@
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\RaidApp.exe
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\RaidApp.deps.json
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\RaidApp.runtimeconfig.json
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\RaidApp.dll
+C:\Users\ÄGARE\Documents\Dev\RaidApp\bin\Release\net10.0\RaidApp.pdb
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.AssemblyInfo.cs
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.dll
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\refint\RaidApp.dll
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.pdb
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\RaidApp.genruntimeconfig.cache
+C:\Users\ÄGARE\Documents\Dev\RaidApp\obj\Release\net10.0\ref\RaidApp.dll
